@@ -37,6 +37,12 @@
         <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-26" value="+ getLeaveReason:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-23">
           <mxGeometry y="120" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-27" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.362;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9RO8vtxKK0eeLW-M6ZcQ-23" target="9RO8vtxKK0eeLW-M6ZcQ-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="310" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

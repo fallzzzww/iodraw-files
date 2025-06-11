@@ -16,7 +16,7 @@
         <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-20" value="+ getLeaveDays:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-18">
           <mxGeometry y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-21" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-18">
+        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-21" value="+ getLeaveReason:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-18">
           <mxGeometry y="110" width="140" height="50" as="geometry" />
         </mxCell>
       </root>

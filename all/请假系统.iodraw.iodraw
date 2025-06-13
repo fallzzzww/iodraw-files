@@ -53,16 +53,10 @@
           <mxGeometry y="26" width="180" height="104" as="geometry" />
         </mxCell>
         <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-33" value="SickLeaveApplicationFactory" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="460" width="180" height="104" as="geometry" />
+          <mxGeometry x="910" y="460" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-34" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-33">
-          <mxGeometry y="26" width="180" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-35" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-33">
-          <mxGeometry y="52" width="180" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-36" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-33">
-          <mxGeometry y="78" width="180" height="26" as="geometry" />
+        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-34" value="&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ createLeaveApplication(String EmployeeName, int getLeaveDays, String getLeaveReason):&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;LeaveApplication&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-33">
+          <mxGeometry y="26" width="180" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -100,10 +100,16 @@
         <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-47" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9RO8vtxKK0eeLW-M6ZcQ-44">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-48" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-48" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9RO8vtxKK0eeLW-M6ZcQ-40" target="9RO8vtxKK0eeLW-M6ZcQ-39">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="540" y="-70" as="sourcePoint" />
             <mxPoint x="700" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9RO8vtxKK0eeLW-M6ZcQ-49" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="540" y="-70" as="sourcePoint" />
+            <mxPoint x="600" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
